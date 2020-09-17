@@ -1,2 +1,2 @@
 # projeto_coffe
-site HTML e CSS
+Projeto web site HTML e CSS
